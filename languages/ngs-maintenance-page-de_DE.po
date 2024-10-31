@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NGS Maintenance Page\n"
+"POT-Creation-Date: 2017-04-03 18:59+0200\n"
+"PO-Revision-Date: 2017-04-03 19:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: Neue Gute Software i18n@neue-gute-software.de\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: index.php\n"
+"X-Poedit-SearchPath-1: modules/Backend.php\n"
+"X-Poedit-SearchPath-2: modules/Base.php\n"
+"X-Poedit-SearchPath-3: modules/Helper.php\n"
+"X-Poedit-SearchPath-4: templates/backend/options_page.php\n"
+"X-Poedit-SearchPath-5: templates/frontend/maintenance.php\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: templates/backend/options_page.php:34
+msgid "Wartungsmodus"
+msgstr "Wartungsmodus"
+
+#: templates/backend/options_page.php:37
+msgid "Soll der Wartungsmodus aktiviert werden?"
+msgstr "Soll der Wartungsmodus aktiviert werden?"
+
+#: templates/backend/options_page.php:38
+msgid "Ja, bitte aktiviere den Wartungsmodus."
+msgstr "Ja, bitte aktiviere den Wartungsmodus."
+
+#: templates/backend/options_page.php:39
+msgid "Nein, bitte aktiviere den Wartungsmodus nicht."
+msgstr "Nein, bitte aktiviere den Wartungsmodus nicht."
+
+#: templates/backend/options_page.php:44
+msgid "Headline"
+msgstr "Überschrift"
+
+#: templates/backend/options_page.php:52
+msgid "Headline Color"
+msgstr "Farbe der Überschrift"
+
+#: templates/backend/options_page.php:60
+msgid "Text"
+msgstr "Text"
+
+#: templates/backend/options_page.php:68
+msgid "Text Color"
+msgstr "Farbe des Textes"
+
+#: templates/backend/options_page.php:76
+msgid "Layer Color"
+msgstr "Farbe des Layerhinterundes"
+
+#: templates/backend/options_page.php:84
+msgid "Hintergrund"
+msgstr "Hintergrund"
+
+#: templates/backend/options_page.php:90
+msgid "Hintergrundbild"
+msgstr "Hintergrundbild"
+
+#: templates/backend/options_page.php:93
+msgid ""
+"In den Mobilen Ansichten kann kein Hintergrund Video angezeigt werden. Hier "
+"wäre es gut, ein Hintergrundbild anzuzeigen."
+msgstr ""
+"In den Mobilen Ansichten kann kein Hintergrund Video angezeigt werden. Hier "
+"wäre es gut, ein Hintergrundbild anzuzeigen."
+
+#: templates/backend/options_page.php:95
+msgid "Hintergrundbild hinzufügen"
+msgstr "Hintergrundbild hinzufügen"
+
+#: templates/backend/options_page.php:102
+msgid "Hintergrundbild Größe anpassen"
+msgstr "Hintergrundbild Größe anpassen"
+
+#: templates/backend/options_page.php:105
+msgid ""
+"Die Größe des Hintergrundbildes kann so angepasst werden, dass sich das Bild "
+"über die gesamte Bildschirmgröße erstreckt. Soll die Größe des "
+"Hintergrundbildes angepasst werden?"
+msgstr ""
+"Die Größe des Hintergrundbildes kann so angepasst werden, dass sich das Bild "
+"über die gesamte Bildschirmgröße erstreckt. Soll die Größe des "
+"Hintergrundbildes angepasst werden?"
+
+#: templates/backend/options_page.php:106
+msgid "Ja, bitte passe die Größe an."
+msgstr "Ja, bitte passe die Größe an."
+
+#: templates/backend/options_page.php:107
+msgid "Nein, bitte passe die nicht Größe an."
+msgstr "Nein, bitte passe die nicht Größe an."
+
+#: templates/backend/options_page.php:112
+msgid "Background Video"
+msgstr "Hintergrund Video"
+
+#: templates/backend/options_page.php:115
+msgid ""
+"Gib hier  den 11 Zeichenlangen Youtube Indikator an, um ein Youtube Video "
+"einzubinden"
+msgstr ""
+"Gib hier  den 11 Zeichenlangen Youtube Indikator an, um ein Youtube Video "
+"einzubinden"
+
+#: templates/backend/options_page.php:120
+msgid "Save"
+msgstr "Speichern"

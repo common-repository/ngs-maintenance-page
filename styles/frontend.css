@@ -1,0 +1,52 @@
+/**
+* NGS-Maintenance-Page
+*
+* @category         Wordpress-plugin
+* @package          NGS_Maintenance_Page
+* @author           Nils Guder <nilsguder@neue-gute-software.de>
+* @copyright        2016 Nils Guder
+* @license          GNU GENERAL PUBLIC LICENSE Version 2
+* @link             http://neue-gute-software.de/plugins/ngs-maintenance-page/
+* @wordpress-plugin
+* Plugin Name: NGS Maintenance Page
+* Plugin URI:  http://neue-gute-software.de/plugins/ngs-maintenance-page/
+* Description: Shows a maintenance page to visitors
+* Version:     1.1.0
+* Author:      Nils Guder
+* Author URI:  http://neue-gute-software.de
+* Text Domain: ngs-maintenance-page
+*/
+html, body{
+    height: 100%;
+}
+body{
+    margin: 0;
+    overflow: hidden;
+}
+.infoHolder{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info{
+    color: black;
+    padding: 2em 5em;
+    min-height: 30%;
+    max-height: 70%;
+    max-width: 70%;
+    min-width: 30%;
+    overflow: auto;
+
+    opacity: 0.5;
+}
+.info h1, .info p{
+    opacity: 1;
+    background-color: none;
+}
+@media (max-width: 35em){
+    #videoHolder{
+        display: none;
+    }
+}
